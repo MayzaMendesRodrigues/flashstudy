@@ -23,7 +23,7 @@ FlashStudy is an interactive learning platform that uses flashcards to teach pro
 3. Use the buttons to reveal answers and move to the next questions.
 
 ## Contributions
-Your contributions are very welcome! If you have ideas or suggestions to improve this login form, feel free to create a 'pull request' or open an 'issue' in the repository.
+Contributions to this project are welcome. If you have suggestions or improvements, please feel free to create a 'pull request' or open an 'issue' in the repository.
 
 ## License
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). This license allows the use, copying, modification, and distribution of the code, both for private and commercial projects, as long as the original copy and copyright are included. It is a popular choice for software projects due to its simplicity and flexibility.
